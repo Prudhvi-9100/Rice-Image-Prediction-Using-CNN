@@ -9,3 +9,5 @@ Rice Image Dataset is a dataset consisting of 60000(250x250) images in 5 differe
 - PIL
 
 ## Files
+-Rice_image_classification_using_CNN.ipynb is a training file which we trained the model using the dataset.
+-Rice_Prediction_model.ipynb is a prediction file which we predict the type of a rice.
